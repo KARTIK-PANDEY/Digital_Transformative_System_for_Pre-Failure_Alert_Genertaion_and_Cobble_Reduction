@@ -1,9 +1,9 @@
 # 🔧 DIGITAL TRANSFORMATIVE SYSTEM FOR ALERT GENERATION AND COBBLE REDUCTION  
 ### 📍 Using Data & Video Analytics in Bar & Rod Mill (BRM) at Bhilai Steel Plant (BSP)
 
-**🎓 Internship Project | IIT Bhilai**  
+**🎓 Internship Project @IIT Bhilai**  
 **🔬 In collaboration with Bhilai Steel Plant (SAIL)**  
-**🧠 Domain:** Industrial AI • Computer Vision • Predictive Maintenance • Real-time Analytics  
+**🧠 Domain:** Industrial AI • Anamoly Detection • Predictive Maintenance • Real-time Analytics  
 **📅 Duration:** [January, 2025] – [July, 2025]  
 
 ---
