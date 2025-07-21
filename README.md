@@ -54,3 +54,52 @@ It integrates **machine learning on billet-level process signals** and **deep le
 
 ## 📁 Repository Structure
 
+
+---
+
+## 📊 Results & Performance Highlights
+
+### 🔬 Quality Prediction
+- **UTS R² Score:** 0.82  
+- **YTS Classification Accuracy:** 91%  
+- **Critical Features:** Tail Breaker Temp, Stand 1 Torque  
+
+### 🦺 PPE Detection (YOLOv8 + DeepSORT)
+- **mAP (Helmet):** 89.4%  
+- **Tracking FPS:** 15–20 (edge GPU)  
+- **Alerts Triggered:** Real-time on PPE violations
+
+### ⚠️ Cobble Alert Logic
+- Stand 1 Entry Temp + Torque signal deviation correlation  
+- Threshold-based alert logic with 50 ms sensor resolution  
+- Visualization dashboard for mill supervisor insights
+
+---
+
+## 📚 Key Learnings
+
+- Industrial sensor data cleaning & high-frequency (50ms) processing  
+- Feature engineering with pyrometer & torque signals  
+- Machine learning model tuning for quality prediction  
+- YOLOv8 + DeepSORT integration for industrial CV  
+- Flask-based live alert system with deployment-ready structure  
+- Real-time anomaly detection logic for cobble prevention  
+- End-to-end research workflow — from raw data to working prototype
+
+---
+
+## 📢 Acknowledgements
+
+- **Guide:** Dr. GAGAN RAJ GUPTA, IIT Bhilai  
+- **Industry Partner:** Bhilai Steel Plant (BSP), SAIL  
+- **Special Thanks:** R&D Wing, BSP for industrial support and data access  
+
+---
+
+## 📌 License  
+This repository is part of a collaborative research internship project.  
+For reproduction, deployment, or citation, please contact the author or guide.
+
+---
+
+**🚀 Bridging AI with Steel Industry — For Smarter, Safer, and Stronger Operations.**
