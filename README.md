@@ -47,7 +47,7 @@ It integrates **machine learning on billet-level process signals** and **deep le
 | Computer Vision | YOLOv8 (Ultralytics), DeepSORT, OpenCV |
 | Annotation | CVAT, LabelImg |
 | Signal Processing | IBA Analyzer, Parquet, .dat decoder |
-| Deployment | Flask, Jupyter SSH Servers |
+| Deployment | Flask, Grafana, Jupyter SSH Servers |
 | Visualization | Plotly, Seaborn |
 
 ---
