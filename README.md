@@ -46,9 +46,9 @@ It integrates **machine learning on billet-level process signals** and **deep le
 | ML/AI | XGBoost, Scikit-learn, PyTorch |
 | Computer Vision | YOLOv8 (Ultralytics), DeepSORT, OpenCV |
 | Annotation | CVAT, LabelImg |
-| Signal Processing | IBA Analyzer, Parquet, .dat decoder |
+| Signal Processing | IBA Analyzer, .Parquet, .dat decoder |
 | Deployment | Flask, Grafana, Jupyter SSH Servers |
-| Visualization | Plotly, Seaborn |
+| Visualization | Plotly, Seaborn, Matplotlib |
 
 ---
 
