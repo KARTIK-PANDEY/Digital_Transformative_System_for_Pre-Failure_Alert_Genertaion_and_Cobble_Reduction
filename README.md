@@ -82,7 +82,7 @@ It integrates **machine learning on billet-level process signals** and **deep le
 - Feature engineering with pyrometer & torque signals  
 - Machine learning model tuning for quality prediction  
 - YOLOv8 + DeepSORT integration for industrial CV  
-- Flask-based live alert system with deployment-ready structure  
+- Flask and Grafana-based live alert system with deployment-ready structure  
 - Real-time anomaly detection logic for cobble prevention  
 - End-to-end research workflow — from raw data to working prototype
 
